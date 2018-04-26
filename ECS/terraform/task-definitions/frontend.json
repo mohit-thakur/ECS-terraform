@@ -1,0 +1,16 @@
+[
+  {
+    "name": "frontend",
+    "image": "mohitthakur/flasknode1",
+    "memory": 512,
+    "essential": true,
+    "logConfiguration": {
+                "logDriver": "syslog"
+            },
+    "portMappings": [
+      {
+        "containerPort": 5000
+      }
+    ]
+  }
+]
