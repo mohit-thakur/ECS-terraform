@@ -3,7 +3,7 @@ Step1:-
 Firstly, I have created a AWS EC2 instance and created a flask application with docker-compose and deploy a container.
 
 Step2:-
-Then I wrote a terraform script to deploy flask application on ECS. For that I have created different files like, task defination. frontend.json file created under task defination.
+Then I write a terraform script to deploy flask application on ECS. For that I have created different files like, task defination. frontend.json file created under task defination.
 
 [
   {
