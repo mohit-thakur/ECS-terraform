@@ -48,8 +48,8 @@ variable "frontend_desired_count" {
   default ="1"
 }
 variable "dockerhub_email" {
-  default = "thakurmohit3@gmail.com"
+  default = ""
 }
 variable "dockerhub_token" {
-  default = "bW9oaXR0aGFrdXI6cDBsbzlraTg="
+  default = ""
 }
